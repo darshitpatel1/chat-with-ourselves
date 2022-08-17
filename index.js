@@ -2,13 +2,7 @@
 // So we don't have ridiculous errors.
 window.onload = function() {
         var firebaseConfig = {
-          apiKey: "AIzaSyCw8NB85g6Fng5q6AvF1zLbfKbFdREAQt0",
-          authDomain: "chatttt-1c4c0.firebaseapp.com",
-          projectId: "chatttt-1c4c0",
-          storageBucket: "chatttt-1c4c0.appspot.com",
-          messagingSenderId: "664592973323",
-          appId: "1:664592973323:web:8e3728b11389decd2c510e",
-          measurementId: "G-DF3DMNHLTP"
+       
       };
     // Initialize Firebase
     firebase.initializeApp(firebaseConfig);
